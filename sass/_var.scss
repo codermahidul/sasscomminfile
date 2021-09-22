@@ -1,0 +1,19 @@
+// connect font
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+// Font Var
+$fontPrimary : 'Poppins', sans-serif;
+$fontSecondary: 'Open Sans', sans-serif;
+$fontParagrap: '';//you can select anything;
+
+
+//Color var
+$colorPrimary: #000;
+$colorSecondary: #353535;
+$colorText: #151515;
+$background: #454545;
+$hover: #484574;
+$border: 1px solid red;
+$boxShadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
